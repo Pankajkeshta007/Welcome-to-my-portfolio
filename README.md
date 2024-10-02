@@ -2,7 +2,9 @@
 
 
 # Technology Used 
-<h3> HTML5 </h3>
-<h5> CSS3 </h5><br>
+### HTML5
+### CSS#
+### Bootstrap 
+
 
   
