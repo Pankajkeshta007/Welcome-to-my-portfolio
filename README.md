@@ -3,7 +3,7 @@
 
 # Technology Used 
 ### HTML5
-### CSS#
+### CSS3
 ### Bootstrap 
 
 
