@@ -51,6 +51,7 @@ p{
     line-height: 28px;
     letter-spacing: 1px;
     font-weight: 400;
+    text-align: justify;
 }
 .heading{
     font-size: 7px;
@@ -111,5 +112,9 @@ img{
 .projects-section{
     width: 20rem;
     height: 100%;
+    margin: auto;
 }
+
+
 }
+
